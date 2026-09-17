@@ -1,0 +1,6 @@
+{
+  "name": "스케줄키즈 (ScheduleKids)",
+  "description": "초·중·고등학생 자녀의 위치 기반(지오펜싱) 자동 등·하원 체크, 학교·학원 시간표, 공유 가족 캘린더 및 가족 안심 단톡방 통합 관리 서비스",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
